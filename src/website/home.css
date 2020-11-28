@@ -1,0 +1,14 @@
+.bg
+{
+    background-image: url('./Images/images4.jpeg');
+    width: 100%;
+    height: 100%;
+    background-position-x: 125px;
+    
+    
+}
+.home{
+    color:orange;
+    
+    text-align: center;
+}

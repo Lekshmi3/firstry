@@ -1,0 +1,10 @@
+.table1,tr,th,td
+{
+  border: solid 1px brown;
+  border-collapse: collapse;
+}
+.table2
+{
+  border: solid 1px green;
+  border-collapse: collapse;
+}
